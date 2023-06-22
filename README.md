@@ -1,5 +1,6 @@
-
 # The Imaging Source Linux Repository
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F37DegreeAngle%2FtiscameraJOSSSATEST.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F37DegreeAngle%2FtiscameraJOSSSATEST?ref=badge_shield)
+
 
 This repository will give you additional resources to control your TIS camera.
 
@@ -141,3 +142,6 @@ CLI11, available under the 3-Clause BSD-License
 Catch2, which is published under the Boost Software License, Version 1.0  
 spdlog, which is available under the "MIT" license.  
 fmt, which is available under the "MIT" license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F37DegreeAngle%2FtiscameraJOSSSATEST.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F37DegreeAngle%2FtiscameraJOSSSATEST?ref=badge_large)
